@@ -1,0 +1,11 @@
+{
+  "name": "rome-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AkifumiSato/rome-demo.git",
+  "author": "佐藤昭文 <akfm.sato@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "rome": "^10.0.4-beta"
+  }
+}
