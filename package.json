@@ -6,6 +6,7 @@
   "author": "佐藤昭文 <akfm.sato@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "lint": "rome check",
     "fix": "rome check --apply"
   },
   "devDependencies": {
