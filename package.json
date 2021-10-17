@@ -5,6 +5,9 @@
   "repository": "https://github.com/AkifumiSato/rome-demo.git",
   "author": "佐藤昭文 <akfm.sato@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "fix": "rome check --apply"
+  },
   "devDependencies": {
     "rome": "^10.0.4-beta"
   }
